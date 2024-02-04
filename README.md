@@ -1,5 +1,5 @@
 # Animal trading card
-My trading card is about the grey wolf, an endangered, yet fascinating animal.
+My trading card is about the grey wolf(an endangered, yet facinating animal), The jaguar(The biggest cat in America), and The great white shark(One of the terror of the sea).
 
 ### Features
 1. Code flow - Organized and coded using semantic Html.
